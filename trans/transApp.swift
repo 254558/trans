@@ -32,6 +32,7 @@ struct MenuBarContentView: View {
         Divider()
 
         Button("设置") {
+            NSApp.activate(ignoringOtherApps: true)
             openWindow(id: "settings")
         }
 
