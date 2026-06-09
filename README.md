@@ -1,6 +1,9 @@
 # 划词翻译
 
-macOS 菜单栏划词翻译工具，使用 DeepSeek API，纯 Swift 原生开发。
+使用 DeepSeek API
+
+<img width="572" height="584" alt="Screenshot 2026-06-09 at 18 46 33" src="https://github.com/user-attachments/assets/e36d8eed-e125-43eb-95d3-9bf99aab1a3d" />
+
 
 # 里面有dmg软件，下载直接安装
 
