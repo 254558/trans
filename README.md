@@ -13,4 +13,4 @@
 
 # 内含 dmg 安装包，下载后直接安装即可
 
-<img width="858" height="280" alt="image" src="https://github.com/user-attachments/assets/17e8ae15-3d5d-4185-a1cf-a3720f795638" />
+<img width="1051" height="345" alt="image" src="https://github.com/user-attachments/assets/d5856a14-4ea6-4e9f-954c-c02962e86885" />
